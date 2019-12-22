@@ -1,0 +1,21 @@
+{
+  "name": "iottest",
+  "version": "1.0.0",
+  "description": "iottest",
+  "main": "index.js",
+  "scripts": {
+    "test": "iottest"
+  },
+  "keywords": [
+    "iot"
+  ],
+  "author": "john",
+  "license": "ISC",
+  "dependencies": {
+    "gmail-send": "^1.8.10",
+    "mqtt": "^1.14.0",
+    "nodemailer": "^2.7.2",
+    "onoff": "^1.2.0"
+  },
+  "devDependencies": {}
+}
