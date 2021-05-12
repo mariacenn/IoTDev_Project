@@ -14,7 +14,7 @@
   "dependencies": {
     "gmail-send": "^1.8.10",
     "mqtt": "^1.14.0",
-    "nodemailer": "^2.7.2",
+    "nodemailer": "^6.4.16",
     "onoff": "^1.2.0"
   },
   "devDependencies": {}
